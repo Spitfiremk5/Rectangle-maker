@@ -1,4 +1,4 @@
-//don't judge, i made this in 1 hour
+
 #ifndef YEET_H_INCLUDED
 #define YEET_H_INCLUDED
 #endif // YEET_H_INCLUDED
@@ -24,7 +24,7 @@ public:
 
     void draw()
     {
-        //send help idk how i got here oh god oh fuck oh shit
+        
     if( width < 101 && height < 201)
     {
         for (int i = 1; i < width; i++)
